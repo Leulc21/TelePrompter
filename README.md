@@ -6,7 +6,7 @@
 
 ## 📸 Preview
 
-![Teleprompter Home](assets/images/screenshot.png)
+![Teleprompter Home](assets/images/screenshoot.png)
 
 ---
 
