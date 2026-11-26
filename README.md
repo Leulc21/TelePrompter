@@ -154,6 +154,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
+## 📥 Download
+
+Download the latest Android APK:
+
+[**Download Teleprompter APK**](https://github.com/Leulc21/prompter/releases/latest)
+
 ## 📞 Contact
 
 For questions, suggestions, or feedback, feel free to reach out:
